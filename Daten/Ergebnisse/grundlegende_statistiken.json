@@ -1,0 +1,30 @@
+{
+  "parteienverteilung": {
+    "GRÜNE": 5,
+    "SPD": 2,
+    "CDU": 2,
+    "FDP": 1
+  },
+  "altersverteilung": {
+    "count": 10.0,
+    "mean": 48.8,
+    "std": 16.060994849496577,
+    "min": 23.0,
+    "25%": 35.0,
+    "50%": 56.0,
+    "75%": 59.75,
+    "max": 71.0
+  },
+  "sicherheitsverteilung": {
+    "count": 10.0,
+    "mean": 91.0,
+    "std": 3.9440531887330774,
+    "min": 85.0,
+    "25%": 90.0,
+    "50%": 90.0,
+    "75%": 95.0,
+    "max": 95.0
+  },
+  "durchschnittlicher_match_mit_gewählter_partei": 87.517,
+  "entscheidungen_entsprechend_hoechstem_match": 100.0
+}
